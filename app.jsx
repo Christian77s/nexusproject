@@ -142,10 +142,31 @@ function App() {
                         <p className="text-slate-500 text-sm mt-2">© 2026 Developed by Christian. All Rights Reserved.</p>
                     </div>
                     <div className="flex gap-6 text-slate-400 text-sm">
-                        <a href="#" className="hover:text-cyan-400 transition underline decoration-cyan-500/20 underline-offset-4">GitHub</a>
-                        <a href="#" className="hover:text-cyan-400 transition underline decoration-cyan-500/20 underline-offset-4">LinkedIn</a>
-                        <a href="#" className="hover:text-cyan-400 transition underline decoration-cyan-500/20 underline-offset-4">Instagram</a>
-                    </div>
+    <a 
+        href="https://github.com/Christian77s" 
+        target="_blank" 
+        rel="noopener noreferrer" 
+        className="hover:text-cyan-400 transition underline decoration-cyan-500/20 underline-offset-4"
+    >
+        GitHub
+    </a>
+    <a 
+        href="https://www.linkedin.com/in/christian-chin-richman-a68a532ab/" 
+        target="_blank" 
+        rel="noopener noreferrer" 
+        className="hover:text-cyan-400 transition underline decoration-cyan-500/20 underline-offset-4"
+    >
+        LinkedIn
+    </a>
+    <a 
+        href="https://www.instagram.com/christ77r/" 
+        target="_blank" 
+        rel="noopener noreferrer" 
+        className="hover:text-cyan-400 transition underline decoration-cyan-500/20 underline-offset-4"
+    >
+        Instagram
+    </a>
+</div>
                 </div>
             </footer>
         </div>
